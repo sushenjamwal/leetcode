@@ -1,4 +1,2 @@
 # leetcode
 leetcode practice.
-
-test
